@@ -24,7 +24,7 @@ Este projeto combina um **Data Lake em Parquet** com um **Modelo de Machine Lear
 
 ## 📊 Como Visualizar
 O dashboard está disponível online para consulta:
-👉 **[INSIRA AQUI O LINK DO SEU APP NO STREAMLIT CLOUD]**
+👉 **[https://santos-port-forecast-ebkbtvqettntndgcy2xsjq.streamlit.app/]**
 
 ---
 *Desenvolvido como um protótipo de suporte à decisão logística para o Porto de Santos.*
